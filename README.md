@@ -1,38 +1,45 @@
-## LeetCode Progress 🚀
+## 🔥 LeetCode Journey – Visual Progress Dashboard
 
-I'm actively grinding on LeetCode! Here's my real-time progress, including solved problems, contest ratings, activity heatmap, and recent submissions.
+Tracking my daily grind, contest performance, and consistency visually!
 
-### Overall Stats & Difficulty Breakdown
-![LeetCode Stats](https://leetcard.jacoblin.cool/GautamKumar_code?theme=dark&font=Baloo%202&ext=)
+### Main Stats + Animated Progress Bars
+[![LeetCode Stats Overview](https://leetcard.jacoblin.cool/GautamKumar_code?theme=dracula&font=Fira%20Code&extension=heatmap,contest)](https://leetcode.com/u/GautamKumar_code/)
 
-- **Total Solved**: 469 (as of now—updates hourly)
-- **Breakdown**: Progress bars above show Easy/Medium/Hard splits for a quick visual.
+> **Pro tip**: The card above includes:
+> - Clean stats with difficulty progress bars (animated fill!)
+> - **Contest rating line graph** (shows your rating growth over time)
+> - **Full-year heatmap** (GitHub-style calendar showing daily activity intensity)
 
-### Contest Rating Progress (Line Graph)
-![LeetCode Contest Rating](https://leetcard.jacoblin.cool/GautamKumar_code?theme=dark&font=Baloo%202&ext=contest)
+### Alternative Compact + Pie-like Difficulty View
+![Compact Stats with Difficulty Distribution](https://leetcode-stats.vercel.app/api?username=GautamKumar_code&theme=Dark)
+### Standalone Visualizations (Zoom In on Specific Graphs)
 
-- This line graph tracks my rating history over contests, showing growth peaks and trends. Current rating: 1399 (Top 86%).
+**1. Contest Rating Progress – Line Graph Evolution**  
+Shows how your rating climbed (or dipped) across contests – great for seeing improvement trends!  
+[![Contest Rating History Graph](https://leetcard.jacoblin.cool/GautamKumar_code?theme=radical&font=JetBrains%20Mono&ext=contest)](https://leetcode.com/u/GautamKumar_code/)
 
-### Activity Heatmap (Calendar View)
-![LeetCode Heatmap](https://leetcard.jacoblin.cool/GautamKumar_code?theme=dark&font=Baloo%202&ext=heatmap)
+**2. Submission Heatmap Calendar – Consistency Visualized**  
+Hotter colors = more problems crushed that day! Perfect for showing streaks.  
+[![Activity Heatmap (Past 52 Weeks)](https://leetcard.jacoblin.cool/GautamKumar_code?theme=transparent&font=Roboto%20Mono&ext=heatmap)](https://leetcode.com/u/GautamKumar_code/)
 
-- Visualizes my submission activity over the past year. Hotter colors mean more problems solved that day—great for spotting consistency!
+**3. Recent Activity Feed – What I've Been Solving Lately**  
+Visual timeline of latest submissions with problem names & difficulty.  
+[![Recent Submissions Timeline](https://leetcard.jacoblin.cool/GautamKumar_code?theme=onedark&font=Source%20Code%20Pro&ext=activity)](https://leetcode.com/u/GautamKumar_code/)
 
-### Recent Activity Feed
-![LeetCode Recent Submissions](https://leetcard.jacoblin.cool/GautamKumar_code?theme=dark&font=Baloo%202&ext=activity)
+### Quick Customization Guide (Make It Yours!)
+Just append these to the base URL `https://leetcard.jacoblin.cool/GautamKumar_code?`
 
-- Lists my latest solved problems with links. Perfect for seeing what I'm working on right now.
+- **Themes** — try: `dracula`, `radical`, `tokyonight`, `onedark`, `gruvbox`, `synthwave`, `transparent`, `light`, `dark`...
+- **Fonts** — 1300+ Google Fonts! Examples: `Fira Code`, `JetBrains Mono`, `Roboto Mono`, `Source Code Pro`
+- **Extensions** (add multiple with comma): `heatmap`, `contest`, `activity`
+- **Extras**: `&border=0`, `&radius=20`, `&hide=hard` (if you want to flex easy/medium only 😏)
 
-### Alternative Stats Card (Vercel Style)
-![Gautam’s LeetCode Stats](https://leetcode-stats.vercel.app/api?username=GautamKumar_code&theme=Dark)
+Example full beast mode:  
+`?theme=dracula&font=JetBrains%20Mono&extension=heatmap,contest&radius=18&border=1`
 
-- A compact card with acceptance rate, ranking, and pie-like difficulty distribution (via counts).
+This combination gives you **line graphs**, **heatmaps**, **progress bars**, **animated fills**, and **activity timelines** — currently the most graphical & impressive setup possible without self-hosting custom SVGs.
 
-For light mode, swap `theme=dark` to `theme=light` in the URLs. Customize fonts or add borders via parameters (e.g., `&border=2&radius=10`).
+Want even more (custom bar charts, pie charts, long-term trends)?  
+→ Fork https://github.com/meugenom/github-leetcode-stats and run the GitHub Action — it generates separate SVG graphs (LeetCode solved over time, difficulty bars) and commits them to your repo every few hours. Super powerful for hardcore visualization!
 
-If you want more charts (e.g., pie for difficulties or bar for submissions), set up the github-leetcode-stats action:
-1. Fork the repo.
-2. Add your LeetCode username to config.
-3. Enable workflows—it'll auto-generate and commit SVG charts to your README.
-
-This setup is dynamic, mobile-friendly, and stands out—way better than static images!
+Let me know if you want me to tweak this for a cyberpunk/neon style, minimal look, or add GitHub commit streaks next to it! 🚀

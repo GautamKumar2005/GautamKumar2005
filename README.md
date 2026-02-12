@@ -1,272 +1,109 @@
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Hey+👋,+I'm+Gautam!;Competitive+Programmer+%26+Full-Stack+Builder;Delhi,+India+🇮🇳;Top+10+in+CodeForge'25+Hackathon!+🏆" alt="Typing Animation" />
 
-# 👋 Hey, I'm Gautam!
+  <p>
+    <em>Passionate about DSA, scalable apps, AI/ML, and solving real-world problems. <br>
+    Knight on LeetCode | Specialist on Codeforces | Daily grinder 🚀</em>
+  </p>
 
-### 💻 Competitive Programmer | Problem Solver | Delhi, India
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Daily+Grinding+Across+Platforms+%F0%9F%9A%80;Solving+Problems+One+at+a+Time+%F0%9F%92%AA;Building+Logic+%7C+Crushing+Contests+%F0%9F%8F%86" alt="Typing SVG" />
-
----
-
-### 🌟 About Me
-
-```python
-class CompetitiveProgrammer:
-    def __init__(self):
-        self.name = "Gautam"
-        self.location = "Delhi, India 📍"
-        self.role = "Competitive Programmer"
-        self.daily_routine = ["Code", "Solve", "Compete", "Repeat"]
-        self.motto = "Consistency beats talent when talent doesn't work hard"
-    
-    def get_platforms(self):
-        return {
-            "LeetCode": "Knight 🏆",
-            "Codeforces": "Specialist 💎",
-            "CodeChef": "3 Star ⭐⭐⭐",
-            "Codolio": "Active Tracker 📊"
-        }
-```
-
+  <!-- Quick Connect (GitHub-focused) -->
+  <p>
+    <a href="https://github.com/GautamKumar2005">
+      <img src="https://img.shields.io/badge/GitHub-Message%20Me-black?style=for-the-badge&logo=github&logoColor=white" alt="Message on GitHub">
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=GautamKumar2005&color=00FF9D&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  </p>
 </div>
 
 ---
 
-## 💡 LeetCode Performance
+## 🏆 Achievements
+- **Top 10 in CodeForge'25 Hackathon** 🥇 – Built innovative solutions with impact!
+- LeetCode Knight | Codeforces Specialist | Consistent 100+ day streaks
+- 1500+ problems solved across platforms | Focused on growth in 2025
 
 <div align="center">
-
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000)](https://leetcode.com/u/Gautam_coder2005/)
-[![LeetCode Stats](https://img.shields.io/badge/Problems-1500+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000)](https://leetcode.com/u/Gautam_coder2005/)
-
-</div>
-
-<div align="center">
-  <a href="https://leetcode.com/u/Gautam_coder2005/">
-    <img src="https://leetcard.jacoblin.cool/Gautam_coder2005?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" />
-  </a>
-</div>
-
-<div align="center">
-
-### 📊 LeetCode Breakdown
-
-| Difficulty | Solved | Percentage |
-|------------|--------|------------|
-| 🟢 **Easy** | 400+ | ████████░░ 80% |
-| 🟡 **Medium** | 300+ | ██████░░░░ 60% |
-| 🔴 **Hard** | 100+ | ████░░░░░░ 40% |
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GautamKumar2005&theme=radical&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GautamKumar2005&show_icons=true&theme=dracula&hide_border=true&border_radius=10&include_all_commits=true" alt="GitHub Stats" width="48%" />
 </div>
 
 ---
 
-## 📊 Aggregated Portfolio (Live Stats)
+## 🔥 Competitive Programming Dashboards
+Live-updating visuals — no manual edits needed!
 
+### 1. LeetCode – My Daily Grind (Priority!)
 <div align="center">
-
-[![Codolio](https://img.shields.io/badge/View%20My%20Full%20Dashboard-Click%20Here-1E90FF?style=for-the-badge&logo=code&logoColor=white&labelColor=101010)](https://codolio.com/profile/Gautam_coder2005)
-
-**📈 All platforms • Real-time ratings • Global ranks • Solved counts**
-
-<a href="https://codolio.com/profile/Gautam_coder2005">
-  <img src="https://codolio-readme-stats.vercel.app/api?username=Gautam_coder2005&theme=dark" alt="Codolio Stats" />
-</a>
-
-> 💡 **Pro Tip:** Codolio aggregates all my competitive programming stats into one beautiful dashboard!
-
+  <img src="https://leetcard.jacoblin.cool/GautamKumar_code?theme=radical&font=Fira%20Code&ext=contest&radius=15" alt="LeetCode Rating History" width="45%" />
+  <img src="https://leetcard.jacoblin.cool/GautamKumar_code?theme=transparent&ext=heatmap" alt="LeetCode Heatmap" width="45%" />
+  <br>
+  <img src="https://leetcard.jacoblin.cool/GautamKumar_code?theme=dracula&ext=" alt="Difficulty & Total Solved" width="45%" />
+  <img src="https://leetcard.jacoblin.cool/GautamKumar_code?theme=onedark&ext=activity" alt="Recent Activity" width="45%" />
 </div>
+
+[Interactive LeetCode Profile →](https://leetcode.com/u/GautamKumar_code/) (Graphs, badges, streaks!)
+
+### 2. Aggregated Portfolio – All Platforms in One Place (Codolio)
+<div align="center">
+  <img src="https://img.shields.io/badge/Codolio-My%20Live%20CP%20Dashboard-1E90FF?style=for-the-badge&logo=code&logoColor=white&labelColor=000" alt="Codolio" />
+</div>
+
+Codolio auto-pulls ratings, total solves (1500+), streaks, DSA topics, contest history, and global rank from LeetCode, Codeforces, CodeChef & more — interactive charts & progress!
+
+[Open Interactive Codolio Dashboard →](https://codolio.com/profile/Gautam_coder2005)
+
+### 3. Codeforces – Rating & Contests
+<div align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Galacti_&theme=dracula&border_radius=10" alt="Codeforces Stats" width="60%" />
+</div>
+
+[Codeforces Profile →](https://codeforces.com/profile/Galacti_) (Live rating graph & history!)
+
+### 4. CodeChef – Progress & Rating
+<div align="center">
+  <img src="https://img.shields.io/badge/CodeChef-gaut_code2005-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+</div>
+
+[CodeChef Profile →](https://www.codechef.com/users/gaut_code2005) (Rating graph, heatmap, solves!)
 
 ---
 
-## ⚔️ Codeforces Performance
-
+## 🛠️ Tech Stack & Skills
 <div align="center">
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=000000)](https://codeforces.com/profile/Gautam_coder2005)
-[![Rating](https://img.shields.io/badge/Rating-1400+-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=000000)](https://codeforces.com/profile/Gautam_coder2005)
-
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <br><br>
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <br><br>
+  <!-- Databases & Tools -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Cloudinary-4285F4?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+  <br><br>
+  <!-- Fundamentals -->
+  <img src="https://img.shields.io/badge/DSA-Expert-2E8B57?style=flat-square" alt="DSA" />
+  <img src="https://img.shields.io/badge/System%20Design-Proficient-FF6347?style=flat-square" alt="System Design" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Exploring-FFD700?style=flat-square" alt="ML" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-🧠-9B59B6?style=flat-square" alt="DL" />
 </div>
 
-<div align="center">
-  <a href="https://codeforces.com/profile/Gautam_coder2005">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Gautam_coder2005&theme=github_dark" alt="Codeforces Stats" />
-  </a>
-</div>
-
-<div align="center">
-
-### 🏆 Contest Highlights
-
-| Metric | Value |
-|--------|-------|
-| **Current Rating** | 1400+ 📈 |
-| **Max Rating** | 1450+ 🎯 |
-| **Contests Participated** | 50+ 🎪 |
-| **Problems Solved** | 500+ ✅ |
-
-</div>
-
----
-
-## 🍳 CodeChef Performance
-
-<div align="center">
-
-[![CodeChef](https://img.shields.io/badge/CodeChef-3%20Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=000000)](https://www.codechef.com/users/gautam_2005)
-[![Rating](https://img.shields.io/badge/Rating-1600+-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=000000)](https://www.codechef.com/users/gautam_2005)
-
-### ⭐⭐⭐
-
-| Division | Rating | Percentile |
-|----------|--------|------------|
-| **Div 2** | 1600+ | Top 15% 🔥 |
-
-</div>
-
----
-
-## 🛠️ Tech Stack & Languages
-
-<div align="center">
-
-### Languages I Use
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Gautam_coder2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1E90FF&icon_color=1E90FF&text_color=C9D1D9" alt="GitHub Stats" height="180" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gautam_coder2005&theme=tokyonight&hide_border=true&background=0D1117&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF" alt="GitHub Streak" height="180" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautam_coder2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1E90FF&text_color=C9D1D9" alt="Top Languages" />
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[Daily Practice] --> B[LeetCode Daily]
-    A --> C[Codeforces Contests]
-    A --> D[CodeChef Challenges]
-    B --> E[Consistency]
-    C --> E
-    D --> E
-    E --> F[Improvement 📈]
-```
-
-</div>
-
-### 🔥 Goals 2025
-
-- ✅ Reach **Knight** on LeetCode
-- 🎯 Achieve **Expert** on Codeforces (1600+)
-- 🎯 Reach **4 Star** on CodeChef
-- 🎯 Solve **2000+** total problems
-- 🎯 Participate in **100+** contests
-
----
-
-## 🏆 Achievements & Highlights
-
-<div align="center">
-
-| Achievement | Status |
-|-------------|--------|
-| 🏆 LeetCode Knight | ✅ Achieved |
-| 💎 Codeforces Specialist | ✅ Achieved |
-| ⭐ CodeChef 3 Star | ✅ Achieved |
-| 🔥 100 Day Streak | ✅ Achieved |
-| 📈 1500+ Problems Solved | ✅ Achieved |
-| 🎯 Contest Expert | 🚧 In Progress |
-
-</div>
-
----
-
-## 📊 Activity Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gautam_coder2005&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=1E90FF&line=1E90FF&point=FFFFFF)](https://github.com/Gautam_coder2005)
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Gautam__coder2005-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Gautam_coder2005/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Gautam__coder2005-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Gautam_coder2005)
-[![CodeChef](https://img.shields.io/badge/CodeChef-gautam__2005-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/gautam_2005)
-[![Codolio](https://img.shields.io/badge/Codolio-Gautam__coder2005-1E90FF?style=for-the-badge&logo=code&logoColor=white)](https://codolio.com/profile/Gautam_coder2005)
-
-</div>
-
----
-
-## 💭 Quote of the Day
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 📊 Profile Views & Engagement
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Gautam_coder2005&color=1E90FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-### 🌟 If you like my work, don't forget to ⭐ my repositories!
-
-</div>
+**Core Knowledge Areas**  
+- Operating Systems · Computer Networks · OOP · DBMS  
+- Descriptive & Inferential Statistics (Research Domain)  
+- System Design · Machine Learning · Deep Learning
 
 ---
 
 <div align="center">
-
-### 💪 Keep Solving, Keep Growing! 🚀
-
-**Everything updates live from the platforms — no manual updates needed!**
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
----
-
-*Made with ❤️ by Gautam*
-
-*Last Updated: Auto-synced with platforms 🔄*
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GautamKumar2005&layout=compact&theme=dracula&hide_border=true&border_radius=10" alt="Top Languages" width="60%" />
+  <br><br>
+  <em>Let's collaborate or just chat about CP, projects, or tech — message me on GitHub! 💬</em>
 </div>

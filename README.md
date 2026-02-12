@@ -22,12 +22,6 @@
 - LeetCode Knight | Codeforces Specialist
 - 100+ day consistent streaks | Focused on massive growth & problem-solving
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GautamKumar2005&theme=radical&hide_border=true&border_radius=10&card_width=800" alt="GitHub Streak" width="70%" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=GautamKumar2005&show_icons=true&theme=dracula&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" width="70%" />
-</div>
-
 ---
 
 ## 🔥 Competitive Programming Dashboards

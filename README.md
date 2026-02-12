@@ -1,12 +1,15 @@
 <div align="center">
   <h1>Hey 👋, I'm Gautam!</h1>
   <p>
-    <em>Competitive Programmer grinding on LeetCode, Codeforces, CodeChef & more 🚀</em><br>
-    Delhi, India | Let's solve problems together!
+    <em>Competitive Programmer | Delhi, India</em><br>
+    Daily grinding across platforms — view aggregated progress below!
   </p>
 
-  <!-- Quick Links Badges -->
+  <!-- Quick Badges with Links -->
   <p>
+    <a href="https://codolio.com/profile/Gautam_coder2005">
+      <img src="https://img.shields.io/badge/Codolio-My%20CP%20Portfolio-1E90FF?style=for-the-badge&logo=code&logoColor=white" alt="Codolio Portfolio">
+    </a>
     <a href="https://leetcode.com/u/GautamKumar_code/">
       <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode">
     </a>
@@ -16,45 +19,42 @@
     <a href="https://www.codechef.com/users/gaut_code2005">
       <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
     </a>
-    <a href="https://codolio.com/profile/Gautam_coder2005">
-      <img src="https://img.shields.io/badge/Codolio-1E90FF?style=for-the-badge&logo=code&logoColor=white" alt="Codolio">
-    </a>
   </p>
 </div>
 
-## 🔥 Competitive Programming Dashboards
-All cards update automatically — no edits needed!
+## 🔥 Competitive Programming Progress
+Everything updates live from the platforms (or aggregated on Codolio) — no manual updates needed!
 
-### LeetCode – Daily Grind & Rating Journey
+### Aggregated Portfolio (Best Overview – Auto-Fetched from Codolio)
+All platforms combined: total questions, streaks, contests breakdown, DSA topics, ratings across LeetCode/Codeforces/CodeChef, global rank, and more.
+
+[![Codolio Portfolio Badge](https://img.shields.io/badge/View%20My%20Codolio%20Portfolio-See%20Live%20Aggregated%20Stats-1E90FF?style=for-the-badge&logo=code&logoColor=white&labelColor=101010)](https://codolio.com/profile/Gautam_coder2005)
+
+**Why Codolio?** It automatically pulls and shows your latest ratings, solved counts, streaks (current  streak updates daily), contest history, and combined progress — visit for the full dynamic view!
+
+[Open Codolio Profile →](https://codolio.com/profile/Gautam_coder2005)
+
+### LeetCode – Live Rating, Heatmap & Activity
 ![LeetCode Contest Rating History](https://leetcard.jacoblin.cool/GautamKumar_code?theme=radical&font=Fira%20Code&ext=contest&radius=15)
-![LeetCode Heatmap](https://leetcard.jacoblin.cool/GautamKumar_code?theme=transparent&ext=heatmap)
-![LeetCode Difficulty & Total](https://leetcard.jacoblin.cool/GautamKumar_code?theme=dracula&ext=)
-![LeetCode Recent Activity](https://leetcard.jacoblin.cool/GautamKumar_code?theme=onedark&ext=activity)
+![LeetCode Daily Heatmap](https://leetcard.jacoblin.cool/GautamKumar_code?theme=transparent&ext=heatmap)
+![LeetCode Difficulty Breakdown & Total](https://leetcard.jacoblin.cool/GautamKumar_code?theme=dracula&ext=)
+![LeetCode Recent Solves](https://leetcard.jacoblin.cool/GautamKumar_code?theme=onedark&ext=activity)
 
-[Full LeetCode Profile →](https://leetcode.com/u/GautamKumar_code/)
+[LeetCode Profile →](https://leetcode.com/u/GautamKumar_code/)
 
-### Codeforces – Rating & Stats
-Current: Pupil (1336) • Max: 1336 • Keep climbing! 💪
+### Codeforces – Live Stats Card
+![Codeforces Live Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Galacti_&theme=dracula)
 
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Galacti_&theme=dracula)
+[Codeforces Profile →](https://codeforces.com/profile/Galacti_)
 
-[Profile →](https://codeforces.com/profile/Galacti_)
+### CodeChef – Live Profile Access
+![CodeChef Badge](https://img.shields.io/badge/CodeChef%20Live%20Stats-gaut_code2005-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
 
-### CodeChef – Progress Overview
-Current: 1★ (Silver League) • Rating ~1181 • 37 solved • 3 contests • Momentum building! 🔥
+Rating, stars, solved problems, contests, rating graph — all update live on the official page.
 
-![CodeChef Stats](https://codechef-readme-stats.onrender.com/gaut_code2005?v=1)
-
-[Profile →](https://www.codechef.com/users/gaut_code2005)
-
-### Codolio – All Platforms Aggregated
-One place for combined CP stats & portfolio!
-
-[![Codolio Profile](https://img.shields.io/badge/Codolio-Profile-1E90FF?style=for-the-badge&logo=code&logoColor=white&labelColor=101010)](https://codolio.com/profile/Gautam_coder2005)
-
-[View Aggregated Progress →](https://codolio.com/profile/Gautam_coder2005)
+[CodeChef Profile →](https://www.codechef.com/users/gaut_code2005)
 
 <div align="center">
-  <em>Stats refresh live — solve more, watch them grow! 🌟</em><br><br>
+  <em>Solve more → Watch everything update automatically across platforms! 🚀💪</em><br><br>
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square" alt="Profile views"/>
 </div>

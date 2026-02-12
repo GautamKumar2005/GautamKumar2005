@@ -107,7 +107,7 @@ Operating Systems · Computer Networks · OOP · DBMS · Descriptive & Inferenti
 
 <div align="center">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GautamKumar2005&layout=compact&theme=dracula&hide_border=true&border_radius=10" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GautamKumar2005&layout=compact&theme=dracula&hide_border=true&border_radius=10" alt="Top Languages" width="60%" onerror="this.src='https://via.placeholder.com/500x200/282a36/fff?text=Top+Languages+(Service+Temp+Down)';this.alt='Top Languages (service down - check back soon)'" />
   <br><br>
   <em>Let's collaborate on CP, projects, AI/ML, or just chat tech — drop a message on GitHub! 💬🔥</em>
 </div>

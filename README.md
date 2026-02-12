@@ -1,39 +1,44 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00FF9D&center=true&vCenter=true&width=650&lines=Hey+👋,+I'm+Gautam+Kumar!; Competitive+Programmer+%26+Builder ; Knight+on+LeetCode+%7C+Specialist+on+Codeforces;Daily+Grinder+%26+Problem+Solver+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FF9D&center=true&vCenter=true&width=900&lines=Hey+👋,+I'm+Gautam+Kumar!;Competitive+Programmer+%26+Builder;LeetCode+Knight+%7C+Codeforces+Specialist;Daily+Grinder+%26+Problem+Solver+🚀" alt="Typing SVG - Full Text" />
 
   <p>
     <em>Passionate about DSA, scalable apps, AI/ML, and solving real-world problems.</em><br>
     Top 10 in CodeForge'25 Hackathon 🏆 | Consistent streaks & growth in 2025!
   </p>
 
-  <!-- Quick Actions -->
+  <!-- Quick Connect -->
   <p>
     <a href="https://github.com/GautamKumar2005">
       <img src="https://img.shields.io/badge/Message+Me+on+GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Message on GitHub">
     </a>
-    <img src="https://komarev.com/ghpvc/?username=GautamKumar2005&color=00FF9D&style=flat-square&label=Profile+Views" alt="Views" />
+    <img src="https://komarev.com/ghpvc/?username=GautamKumar2005&color=00FF9D&style=flat-square&label=Profile+Views" alt="Profile Views" />
   </p>
 </div>
 
 ---
 
 ## 🏆 Achievements Highlights
-- **Top 10 in CodeForge'25 Hackathon** 🥇 – Delivered high-impact innovative solutions!
+- **Top 10 in CodeForge'25 Hackathon** 🥇 – Built innovative, high-impact solutions!
 - LeetCode Knight | Codeforces Specialist
-- 100+ day consistent streaks | Focused on massive growth
+- 100+ day consistent streaks | Focused on massive growth & problem-solving
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GautamKumar2005&theme=radical&hide_border=true&border_radius=10&card_width=800" alt="GitHub Streak" width="70%" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=GautamKumar2005&show_icons=true&theme=dracula&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" width="70%" />
+</div>
 
 ---
 
 ## 🔥 Competitive Programming Dashboards
-All visuals update live — click cards for full interactive profiles (graphs, heatmaps, history)!
+Live-updating visuals — click for full interactive profiles (graphs, heatmaps, history)!
 
 ### 1. LeetCode – My Daily Grind (Priority!)
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/GautamKumar_code?theme=radical&font=Fira%20Code&ext=contest&radius=15" alt="LeetCode Rating History" width="45%" />
   <img src="https://leetcard.jacoblin.cool/GautamKumar_code?theme=transparent&ext=heatmap" alt="LeetCode Heatmap" width="45%" />
   <br>
-  <img src="https://leetcard.jacoblin.cool/GautamKumar_code?theme=dracula&ext=" alt="Difficulty Breakdown & Total" width="45%" />
+  <img src="https://leetcard.jacoblin.cool/GautamKumar_code?theme=dracula&ext=" alt="Difficulty Breakdown & Total Solved" width="45%" />
   <img src="https://leetcard.jacoblin.cool/GautamKumar_code?theme=onedark&ext=activity" alt="Recent Activity" width="45%" />
 </div>
 
@@ -44,13 +49,11 @@ All visuals update live — click cards for full interactive profiles (graphs, h
 </p>
 
 ### 2. Aggregated Portfolio – Codolio (All Platforms Combined)
-Codolio pulls live data from LeetCode, Codeforces, CodeChef & more — total solves, streaks, DSA progress, ranks, interactive charts!
+Codolio auto-pulls ratings, total solves, streaks, DSA topics, contest history, global rank & more from LeetCode, Codeforces, CodeChef — interactive charts & progress!
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Codolio+-+My+Live+CP+Dashboard-1E90FF?style=for-the-badge&logo=code&logoColor=white" alt="Codolio" />
-  <br><br>
   <a href="https://codolio.com/profile/Gautam_coder2005">
-    <img src="https://img.shields.io/badge/Open+Codolio+Dashboard-See+Aggregated+Stats+%26+Charts-1E90FF?style=for-the-badge&logo=code&logoColor=white" alt="Codolio Dashboard">
+    <img src="https://img.shields.io/badge/Open+Codolio+Dashboard-See+Live+Aggregated+Stats+%26+Charts-1E90FF?style=for-the-badge&logo=code&logoColor=white" alt="Codolio Dashboard">
   </a>
 </p>
 
@@ -61,7 +64,7 @@ Codolio pulls live data from LeetCode, Codeforces, CodeChef & more — total sol
 
 <p align="center">
   <a href="https://codeforces.com/profile/Galacti_">
-    <img src="https://img.shields.io/badge/View+Codeforces+Profile-Live+Graph+%26+History-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
+    <img src="https://img.shields.io/badge/View+Codeforces+Profile-Live+Rating+Graph+%26+History-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
   </a>
 </p>
 
@@ -90,7 +93,7 @@ Codolio pulls live data from LeetCode, Codeforces, CodeChef & more — total sol
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <br><br>
-  <!-- Databases & Cloud -->
+  <!-- Databases & Tools -->
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
@@ -103,7 +106,7 @@ Codolio pulls live data from LeetCode, Codeforces, CodeChef & more — total sol
   <img src="https://img.shields.io/badge/Deep+Learning-🧠-9B59B6?style=flat" alt="DL" />
 </div>
 
-**Core Fundamentals**  
+**Core Knowledge Areas**  
 Operating Systems · Computer Networks · OOP · DBMS · Descriptive & Inferential Statistics (Research Domain) · System Design · Machine Learning · Deep Learning
 
 ---
@@ -112,5 +115,5 @@ Operating Systems · Computer Networks · OOP · DBMS · Descriptive & Inferenti
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GautamKumar2005&layout=compact&theme=dracula&hide_border=true&border_radius=10" alt="Top Languages" width="60%" />
   <br><br>
-  <em>Let's collaborate on CP, projects, AI, or just chat tech — drop a message on GitHub! 💬🔥</em>
+  <em>Let's collaborate on CP, projects, AI/ML, or just chat tech — drop a message on GitHub! 💬🔥</em>
 </div>

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00FF9D&center=true&vCenter=true&width=650&lines=Hey+👋,+I'm+Gautam+Kumar!;Competitive+Programmer+%26+Builder;Knight+on+LeetCode+%7C+Specialist+on+Codeforces;Daily+Grinder+%26+Problem+Solver+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00FF9D&center=true&vCenter=true&width=650&lines=Hey+👋,+I'm+Gautam+Kumar!; Competitive+Programmer+%26+Builder ; Knight+on+LeetCode+%7C+Specialist+on+Codeforces;Daily+Grinder+%26+Problem+Solver+🚀" alt="Typing SVG" />
 
   <p>
     <em>Passionate about DSA, scalable apps, AI/ML, and solving real-world problems.</em><br>

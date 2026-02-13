@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=800&color=00FF9D&center=true&vCenter=true&width=900&lines=Hey+👋,+I'm+Gautam+Kumar!;Software+Developer+and+Engineer;Competitive+Programmer+%26+Builder;LeetCode+Knight+%7C+Codeforces+Specialist;Daily+Grinder+%26+Problem+Solver+🚀" alt="Typing SVG - Full Text" />
   <p>
     <em>Passionate about DSA, scalable apps, AI/ML, and solving real-world problems.</em><br>
-    Top 10 in CodeForge'25 Hackathon 🏆 | Consistent streaks & growth in upcoming years!
+    Top 10 in CodeForge'25 Hackathon 🏆 | Consistent streaks & growth in 2025!
   </p>
   <!-- Quick Connect -->
   <p>
@@ -71,6 +71,7 @@ Codolio auto-pulls ratings, total solves, streaks, DSA topics, contest history, 
 ## 🛠️ Tech Stack & Skills
 <div align="center">
   <!-- Languages -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -78,7 +79,7 @@ Codolio auto-pulls ratings, total solves, streaks, DSA topics, contest history, 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
   <br><br>
   <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React.js " />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React.js" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" />
@@ -91,7 +92,13 @@ Codolio auto-pulls ratings, total solves, streaks, DSA topics, contest history, 
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Cloudinary-4285F4?style=flat&logo=cloudinary&logoColor=white" alt="Cloudinary" />
   <br><br>
-  <!-- Tools & DevOps -->
+  <!-- Version Control & Terminals -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Git%20Bash-4EAA25?style=flat&logo=git&logoColor=white" alt="Git Bash" />
+  <br><br>
+  <!-- API Testing & Dev Tools -->
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Thunder%20Client-0091FF?style=flat&logo=thunder-client&logoColor=white" alt="Thunder Client" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" />
   <br><br>

@@ -1,11 +1,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=800&color=00FF9D&center=true&vCenter=true&width=900&lines=Hey+👋,+I'm+Gautam+Kumar!;Software+Developer+and+Engineer;Competitive+Programmer+%26+Builder;LeetCode+Knight+%7C+Codeforces+Specialist;Daily+Grinder+%26+Problem+Solver+🚀" alt="Typing SVG - Full Text" />
-
   <p>
     <em>Passionate about DSA, scalable apps, AI/ML, and solving real-world problems.</em><br>
     Top 10 in CodeForge'25 Hackathon 🏆 | Consistent streaks & growth in 2025!
   </p>
-
   <!-- Quick Connect -->
   <p>
     <a href="https://github.com/GautamKumar2005">
@@ -35,7 +33,6 @@ Live-updating visuals — click for full interactive profiles (graphs, heatmaps,
   <img src="https://leetcard.jacoblin.cool/GautamKumar_code?theme=dracula&ext=" alt="Difficulty Breakdown & Total Solved" width="45%" />
   <img src="https://leetcard.jacoblin.cool/GautamKumar_code?theme=onedark&ext=activity" alt="Recent Activity" width="45%" />
 </div>
-
 <p align="center">
   <a href="https://leetcode.com/u/GautamKumar_code/">
     <img src="https://img.shields.io/badge/Open+Interactive+LeetCode+Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile">
@@ -44,7 +41,6 @@ Live-updating visuals — click for full interactive profiles (graphs, heatmaps,
 
 ### 2. Aggregated Portfolio – Codolio (All Platforms Combined)
 Codolio auto-pulls ratings, total solves, streaks, DSA topics, contest history, global rank & more from LeetCode, Codeforces, CodeChef — interactive charts & progress!
-
 <p align="center">
   <a href="https://codolio.com/profile/Gautam_coder2005">
     <img src="https://img.shields.io/badge/Open+Codolio+Dashboard-See+Live+Aggregated+Stats+%26+Charts-1E90FF?style=for-the-badge&logo=code&logoColor=white" alt="Codolio Dashboard">
@@ -55,7 +51,6 @@ Codolio auto-pulls ratings, total solves, streaks, DSA topics, contest history, 
 <div align="center">
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Galacti_&theme=dracula&border_radius=10" alt="Codeforces Stats Card" width="60%" />
 </div>
-
 <p align="center">
   <a href="https://codeforces.com/profile/Galacti_">
     <img src="https://img.shields.io/badge/View+Codeforces+Profile-Live+Rating+Graph+%26+History-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
@@ -83,15 +78,27 @@ Codolio auto-pulls ratings, total solves, streaks, DSA topics, contest history, 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
   <br><br>
   <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white" alt="Framer Motion" />
   <br><br>
-  <!-- Databases & Tools -->
+  <!-- Databases & Cloud -->
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Cloudinary-4285F4?style=flat&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+  <br><br>
+  <!-- Tools & DevOps -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <br><br>
+  <!-- Design & Productivity -->
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/draw.io-F08705?style=flat&logo=diagrams.net&logoColor=white" alt="draw.io" />
   <br><br>
   <!-- Advanced -->
   <img src="https://img.shields.io/badge/DSA-Expert-2E8B57?style=flat" alt="DSA" />

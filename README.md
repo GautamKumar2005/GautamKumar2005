@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=800&color=00FF9D&center=true&vCenter=true&width=900&lines=Hey+👋,+I'm+Gautam+Kumar!;Software+Developer+and+Engineer;Competitive+Programmer+%26+Builder;LeetCode+Knight+%7C+Codeforces+Specialist;Daily+Grinder+%26+Problem+Solver+🚀" alt="Typing SVG - Full Text" />
   <p>
     <em>Passionate about DSA, scalable apps, AI/ML, and solving real-world problems.</em><br>
-    Top 10 in CodeForge'25 Hackathon 🏆 | Consistent streaks & growth in 2025!
+    Top 10 in CodeForge'25 Hackathon 🏆 | Consistent streaks & growth in upcoming years!
   </p>
   <!-- Quick Connect -->
   <p>

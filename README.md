@@ -111,11 +111,13 @@ Codolio auto-pulls ratings, total solves, streaks, DSA topics, contest history, 
   <img src="https://img.shields.io/badge/DSA-Expert-2E8B57?style=flat" alt="DSA" />
   <img src="https://img.shields.io/badge/System+Design-Proficient-FF6347?style=flat" alt="System Design" />
   <img src="https://img.shields.io/badge/Machine+Learning-Exploring-FFD700?style=flat" alt="ML" />
+  <img src="https://img.shields.io/badge/NLP-Exploring-yellow?style=flat" alt="NLP" />
+  <img src="https://img.shields.io/badge/Transformers-🧠-blue?style=flat&logo=huggingface&logoColor=white" alt="Transformers" />
   <img src="https://img.shields.io/badge/Deep+Learning-🧠-9B59B6?style=flat" alt="DL" />
 </div>
 
 **Core Knowledge Areas**  
-Operating Systems · Computer Networks · OOP · DBMS · Descriptive & Inferential Statistics (Research Domain) · System Design · Machine Learning · Deep Learning
+Operating Systems · Computer Networks · OOP · DBMS · Descriptive & Inferential Statistics (Research Domain) · System Design · Machine Learning · Deep Learning · NLP & Transformers
 
 ---
 
@@ -123,5 +125,5 @@ Operating Systems · Computer Networks · OOP · DBMS · Descriptive & Inferenti
   <br>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GautamKumar2005&layout=compact&theme=dracula&hide_border=true&border_radius=10" alt="Top Languages" width="60%" onerror="this.src='https://via.placeholder.com/500x200/282a36/fff?text=Top+Languages+(Service+Temp+Down)';this.alt='Top Languages (service down - check back soon)'" />
   <br><br>
-  <em>Let's collaborate on CP, projects, AI/ML, or just chat tech — drop a message on GitHub! 💬🔥</em>
+  <em>Let's collaborate on CP, projects, AI/ML, NLP, or just chat tech — drop a message on GitHub! 💬🔥</em>
 </div>

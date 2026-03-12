@@ -90,6 +90,7 @@ Codolio auto-pulls ratings, total solves, streaks, DSA topics, contest history, 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Supabase-DC382D?style=flat&logo=redis&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Cloudinary-4285F4?style=flat&logo=cloudinary&logoColor=white" alt="Cloudinary" />
   <br><br>
   <!-- Version Control & Terminals -->

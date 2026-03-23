@@ -74,12 +74,11 @@ Codolio auto-pulls ratings, total solves, streaks, DSA topics, contest history, 
 
 ### 5. GeeksForGeeks – DSA Practice & Articles
 
-<div align="center">
-  <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=gautamgkdz" alt="GeeksForGeeks Stats" width="60%" />
-</div>
 <p align="center">
   <a href="https://www.geeksforgeeks.org/profile/gautamgkdz">
-    <img src="https://img.shields.io/badge/View+GeeksForGeeks+Profile-Problems+%26+Streaks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks Profile">
+    <img src="https://img.shields.io/badge/GeeksForGeeks-gautamgkdz-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks Badge" />
+    <br><br>
+    <img src="https://img.shields.io/badge/Open+GeeksForGeeks+Profile-Problems+%26+Streaks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks Profile">
   </a>
 </p>
 

@@ -23,9 +23,11 @@
 ---
 
 ## 🔥 Competitive Programming Dashboards
+
 Live-updating visuals — click for full interactive profiles (graphs, heatmaps, history)!
 
 ### 1. LeetCode – My Daily Grind (Priority!)
+
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/GautamKumar_code?theme=radical&font=Fira%20Code&ext=contest&radius=15" alt="LeetCode Rating History" width="45%" />
   <img src="https://leetcard.jacoblin.cool/GautamKumar_code?theme=transparent&ext=heatmap" alt="LeetCode Heatmap" width="45%" />
@@ -40,7 +42,9 @@ Live-updating visuals — click for full interactive profiles (graphs, heatmaps,
 </p>
 
 ### 2. Aggregated Portfolio – Codolio (All Platforms Combined)
+
 Codolio auto-pulls ratings, total solves, streaks, DSA topics, contest history, global rank & more from LeetCode, Codeforces, CodeChef — interactive charts & progress!
+
 <p align="center">
   <a href="https://codolio.com/profile/Gautam_coder2005">
     <img src="https://img.shields.io/badge/Open+Codolio+Dashboard-See+Live+Aggregated+Stats+%26+Charts-1E90FF?style=for-the-badge&logo=code&logoColor=white" alt="Codolio Dashboard">
@@ -48,6 +52,7 @@ Codolio auto-pulls ratings, total solves, streaks, DSA topics, contest history, 
 </p>
 
 ### 3. Codeforces – Rating & Contests
+
 <div align="center">
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Galacti_&theme=dracula&border_radius=10" alt="Codeforces Stats Card" width="60%" />
 </div>
@@ -58,6 +63,7 @@ Codolio auto-pulls ratings, total solves, streaks, DSA topics, contest history, 
 </p>
 
 ### 4. CodeChef – Progress & Rating
+
 <p align="center">
   <a href="https://www.codechef.com/users/gaut_code2005">
     <img src="https://img.shields.io/badge/CodeChef+-+gaut_code2005-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge" />
@@ -66,9 +72,21 @@ Codolio auto-pulls ratings, total solves, streaks, DSA topics, contest history, 
   </a>
 </p>
 
+### 5. GeeksForGeeks – DSA Practice & Articles
+
+<div align="center">
+  <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=gautamgkdz" alt="GeeksForGeeks Stats" width="60%" />
+</div>
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/profile/gautamgkdz">
+    <img src="https://img.shields.io/badge/View+GeeksForGeeks+Profile-Problems+%26+Streaks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks Profile">
+  </a>
+</p>
+
 ---
 
 ## 🛠️ Tech Stack & Skills
+
 <div align="center">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
@@ -90,7 +108,7 @@ Codolio auto-pulls ratings, total solves, streaks, DSA topics, contest history, 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Cloudinary-4285F4?style=flat&logo=cloudinary&logoColor=white" alt="Cloudinary" />
   <br><br>
   <!-- Version Control & Terminals -->
@@ -117,7 +135,8 @@ Codolio auto-pulls ratings, total solves, streaks, DSA topics, contest history, 
   <img src="https://img.shields.io/badge/Deep+Learning-🧠-9B59B6?style=flat" alt="DL" />
 </div>
 
-**Core Knowledge Areas**  
+**Core Knowledge Areas**
+
 Operating Systems · Computer Networks · OOP · DBMS · Descriptive & Inferential Statistics (Research Domain) · System Design · Machine Learning · Deep Learning · NLP & Transformers
 
 ---

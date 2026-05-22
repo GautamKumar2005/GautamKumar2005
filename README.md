@@ -2,9 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=800&color=00FF9D&center=true&vCenter=true&width=900&lines=Hey+👋,+I'm+Gautam+Kumar!;Software+Developer+and+Engineer;Competitive+Programmer+%26+Builder;LeetCode+Knight+%7C+Codeforces+Specialist;Daily+Grinder+%26+Problem+Solver+🚀" alt="Typing SVG - Full Text" />
   <p>
     <em>Passionate about DSA, scalable apps, AI/ML, and solving real-world problems.</em><br>
-    Top 10 in CodeForge'25 Hackathon 🏆 | Consistent streaks & growth in 2025!
+    Top 10 in CodeForge'25 & Finalist in Vihaan 8.0 🏆 | Consistent streaks & growth!
   </p>
-  <!-- Quick Connect -->
   <p>
     <a href="https://github.com/GautamKumar2005">
       <img src="https://img.shields.io/badge/Message+Me+on+GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Message on GitHub">
@@ -16,9 +15,10 @@
 ---
 
 ## 🏆 Achievements Highlights
-- **Top 10 in CodeForge'25 Hackathon** 🥇 – Built innovative, high-impact solutions!
-- LeetCode Knight | Codeforces Specialist
-- 100+ day consistent streaks | Focused on massive growth & problem-solving
+- [cite_start]**Hackathon Success** 🥇 – Finalist in CodeForge '25 and Vihaan 8.0 ('25); built functional AI/ML full-stack web apps in 24-48 hour sprints. [cite: 40]
+- [cite_start]**LeetCode Knight & Codeforces Specialist** ⚔️ – Solved 600+ DSA problems with a 1530+ peak rating on Codeforces. [cite: 38]
+- [cite_start]**CodeChef 3-Star** 🌟 – Attained a 1698 peak rating showing advanced problem-solving skills. [cite: 39]
+- [cite_start]**100+ Day Streaks** 🔥 – Committed to continuous growth, clean code, and first-principles thinking. [cite: 47, 55]
 
 ---
 
@@ -43,7 +43,7 @@ Live-updating visuals — click for full interactive profiles (graphs, heatmaps,
 
 ### 2. Aggregated Portfolio – Codolio (All Platforms Combined)
 
-Codolio auto-pulls ratings, total solves, streaks, DSA topics, contest history, global rank & more from LeetCode, Codeforces, CodeChef — interactive charts & progress!
+[cite_start]Codolio auto-pulls ratings, total solves, streaks, DSA topics, contest history, global rank & more from LeetCode, Codeforces, CodeChef — interactive charts & progress! [cite: 38, 39]
 
 <p align="center">
   <a href="https://codolio.com/profile/Gautam_coder2005">
@@ -87,56 +87,69 @@ Codolio auto-pulls ratings, total solves, streaks, DSA topics, contest history, 
 ## 🛠️ Tech Stack & Skills
 
 <div align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
   <br><br>
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React.js" />
+
+  <img src="https://img.shields.io/badge/Claude_Code-D97706?style=flat&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=flat&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/Cursor-00E5FF?style=flat&logo=visualstudiocode&logoColor=black" alt="Cursor" />
+  <br><br>
+
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=analytics&logoColor=black" alt="YOLO" />
+  <br><br>
+
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white" alt="Framer Motion" />
+  <br><br>
+
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white" alt="Framer Motion" />
-  <br><br>
-  <!-- Databases & Cloud -->
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat&logo=api&logoColor=white" alt="REST APIs" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/ChromaDB-0055FF?style=flat&logo=googlecloud&logoColor=white" alt="Vector DB (Chroma/Pinecone)" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Cloudinary-4285F4?style=flat&logo=cloudinary&logoColor=white" alt="Cloudinary" />
   <br><br>
-  <!-- Version Control & Terminals -->
+
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Git%20Bash-4EAA25?style=flat&logo=git&logoColor=white" alt="Git Bash" />
-  <br><br>
-  <!-- API Testing & Dev Tools -->
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Thunder%20Client-0091FF?style=flat&logo=thunder-client&logoColor=white" alt="Thunder Client" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/WSL-007ACC?style=flat&logo=linux&logoColor=white" alt="WSL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" />
   <br><br>
-  <!-- Design & Productivity -->
+
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" alt="Canva" />
   <img src="https://img.shields.io/badge/draw.io-F08705?style=flat&logo=diagrams.net&logoColor=white" alt="draw.io" />
-  <br><br>
-  <!-- Advanced -->
-  <img src="https://img.shields.io/badge/DSA-Expert-2E8B57?style=flat" alt="DSA" />
-  <img src="https://img.shields.io/badge/System+Design-Proficient-FF6347?style=flat" alt="System Design" />
-  <img src="https://img.shields.io/badge/Machine+Learning-Exploring-FFD700?style=flat" alt="ML" />
-  <img src="https://img.shields.io/badge/NLP-Exploring-yellow?style=flat" alt="NLP" />
-  <img src="https://img.shields.io/badge/Transformers-🧠-blue?style=flat&logo=huggingface&logoColor=white" alt="Transformers" />
-  <img src="https://img.shields.io/badge/Deep+Learning-🧠-9B59B6?style=flat" alt="DL" />
 </div>
 
-**Core Knowledge Areas**
+### 🧠 Core Knowledge Areas
 
-Operating Systems · Computer Networks · OOP · DBMS · Descriptive & Inferential Statistics (Research Domain) · System Design · Machine Learning · Deep Learning · NLP & Transformers
+* [cite_start]**Computer Science Fundamentals:** Data Structures & Algorithms (DSA), Operating Systems (OS), Database Management Systems (DBMS), Object-Oriented Programming (OOP), Computer Networks. [cite: 9]
+* [cite_start]**Deep Learning Architectures:** Transformers, CNNs, RNNs, LSTMs, ANNs, Word2Vec, Gensim. [cite: 8]
+* [cite_start]**Mathematical Domain:** Descriptive & Inferential Statistics, Matrix Transformations, System Performance Metrics. [cite: 18, 24]
+* [cite_start]**Design Engineering:** Unified Modeling Language (UML Diagrams), Responsive UI/UX Architecture. [cite: 9, 25]
 
 ---
 
@@ -144,5 +157,5 @@ Operating Systems · Computer Networks · OOP · DBMS · Descriptive & Inferenti
   <br>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GautamKumar2005&layout=compact&theme=dracula&hide_border=true&border_radius=10" alt="Top Languages" width="60%" onerror="this.src='https://via.placeholder.com/500x200/282a36/fff?text=Top+Languages+(Service+Temp+Down)';this.alt='Top Languages (service down - check back soon)'" />
   <br><br>
-  <em>Let's collaborate on CP, projects, AI/ML, NLP, or just chat tech — drop a message on GitHub! 💬🔥</em>
+  <em>Let's collaborate on CP, low-level systems, full-stack architectures, or AI vector storage — drop a message on GitHub! 💬🔥</em>
 </div>

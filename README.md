@@ -55,7 +55,10 @@ Codolio auto-pulls ratings, total solves, streaks, DSA topics, contest history, 
 ### 3. Codeforces – Rating & Contests
 
 <div align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Galacti_&theme=dracula&border_radius=10" alt="Codeforces Stats Card" width="60%" />
+  <!-- Fallback handling via a standard markdown image wrap inside the div -->
+  <a href="https://codeforces.com/profile/Galacti_">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Galacti_&theme=dracula&border_radius=10" alt="Codeforces Stats Card" width="60%" />
+  </a>
 </div>
 <p align="center">
   <a href="https://codeforces.com/profile/Galacti_">

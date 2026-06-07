@@ -33,8 +33,8 @@ Live-updating visuals — click for full interactive profiles (graphs, heatmaps,
   <img src="https://leetcard.jacoblin.cool/GautamKumar_code?theme=radical&font=Fira%20Code&ext=contest&radius=15" alt="LeetCode Rating History" width="45%" />
   <img src="https://leetcard.jacoblin.cool/GautamKumar_code?theme=transparent&ext=heatmap" alt="LeetCode Heatmap" width="45%" />
   <br>
-  <img src="https://leetcard.jacoblin.cool/GautamKumar_code?theme=dracula&ext=" alt="Difficulty Breakdown & Total Solved" width="45%" />
-  <img src="https://leetcard.jacoblin.cool/GautamKumar_code?theme=onedark&ext=activity" alt="Recent Activity" width="45%" />
+  <!-- <img src="https://leetcard.jacoblin.cool/GautamKumar_code?theme=dracula&ext=" alt="Difficulty Breakdown & Total Solved" width="45%" />
+  <img src="https://leetcard.jacoblin.cool/GautamKumar_code?theme=onedark&ext=activity" alt="Recent Activity" width="45%" /> -->
 </div>
 <p align="center">
   <a href="https://leetcode.com/u/GautamKumar_code/">
